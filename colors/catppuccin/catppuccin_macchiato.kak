@@ -1,4 +1,4 @@
-# Catppuccin theme for Kakoune
+# Catppuccin Macchiato theme for Kakoune
 #
 # Taken and adapted from
 # <https://github.com/catppuccin/kakoune/blob/e52fb5c95f70c297fea1fd58613284817b5a50bd/colors/catppuccin_macchiato.kak>
