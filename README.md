@@ -23,5 +23,6 @@ colorscheme catppuccin_macchiato
 ## Available colorschemes
 
 - [Catppuccin Macchiato](./colors/catppuccin/catppuccin_macchiato.kak)
+- [Night Owl](./colors/nightowl/night-owl.kak)
 
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter/
