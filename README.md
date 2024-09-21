@@ -1,9 +1,7 @@
 # tree-sitter themes for Kakoune
 
-> **Archive note**: the project was moved to <https://git.sr.ht/~hadronized/kakoune-tree-sitter-themes>.
-
 This repository is a default source for tree-sitter powered colorscheme for Kakoune. In order to support [tree-sitter],
-colorschemes must provide some `set-face` commands; see [this section of the official wiki](https://git.sr.ht/~hadronized/kak-tree-sitter/tree/master/item/docs/man/highlighting.md#faces)
+colorschemes must provide some `set-face` commands; see [this section of the official wiki](https://github.com/hadronized/kak-tree-sitter/tree/master/docs/man/highlighting.md#faces)
 for further details.
 
 > See the same section if you want to contribute and write / port a colorscheme to tree-sitter in Kakoune

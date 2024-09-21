@@ -88,7 +88,7 @@ set-face global documentation  comment
 set-face global meta           "%opt{pink}"
 set-face global builtin        "%opt{lavender}+b"
 
-# Tree-sitter (<https://git.sr.ht/~hadronized/kak-tree-sitter>)
+# Tree-sitter (<https://github.com/hadronized/kak-tree-sitter>)
 set-face global ts_attribute                    "%opt{blue}"
 set-face global ts_comment                      "%opt{overlay0}+i"
 set-face global ts_conceal                      "%opt{mauve}+i"
